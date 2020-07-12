@@ -9,7 +9,7 @@ import javax.swing.JFrame;
 import com.LuckySixSimulator.LSS.model.Server;
 import com.LuckySixSimulator.LSS.model.Ticket;
 
-public class LuckySixSimulator extends JFrame{
+public class LuckySixSimulator {
 	
 	private static final long serialVersionUID = 1L;
 	private final int NUMBER_OF_DRAWS = 144; // 144 draws represent the number of draws for 12 hours, you can change it
